@@ -1,0 +1,33 @@
+{
+  "name": "sugarlisp-jsx",
+  "description": "use jsx directly in sugarlisp code",
+  "keywords": [
+    "jsx",
+    "javascript",
+    "language",
+    "sugarlisp",
+    "sugarscript",
+    "compiler",
+    "lisp"
+  ],
+  "author": "Justin Firth",
+  "version": "0.6.2",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/jmfirth/sugarlisp-jsx/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "homepage": "https://github.com/jmfirth/sugarlisp-jsx",
+  "bugs": "https://github.com/jmfirth/sugarlisp-jsx/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmfirth/sugarlisp-jsx.git"
+  }
+}
